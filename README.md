@@ -7,6 +7,12 @@ Offensive Security professional with ~3 years of hands-on experience and a passi
 ### Education
 MSc. Computer Science - Cyber Security 
 
+### Skills
+- Application Pentesting (Web, Mobile, API & AI Applications)
+- Network Pentesting (Active Directory, Internal & External)
+- Cloud Pentesting (AWS & Azure)
+- Source Code Review
+
 
 ### Work Experience
 **Security Consultant - Redfox Security** (Sept 2024 — Present, Mumbai, India)
