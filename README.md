@@ -7,6 +7,7 @@ Offensive Security professional with ~3 years of hands-on experience and a passi
 ### Education
 MSc. Computer Science - Cyber Security 
 
+
 ### Skills
 - Application Pentesting (Web, Mobile, API & AI Applications)
 - Network Pentesting (Active Directory, Internal & External)
