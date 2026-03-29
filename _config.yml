@@ -1,5 +1,5 @@
 title: Joseph Simon (The_0n3)
 #logo: /assets/img/headshot_circle.png
 description: I break things to understand them, then build them better | Exploring AI & Cloud Security
-#show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
